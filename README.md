@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io/)
+[![Release](https://img.shields.io/github/v/release/SixFiveMil/wp-mcp-server)](https://github.com/SixFiveMil/wp-mcp-server/releases)
 
 A Model Context Protocol (MCP) server for WordPress that enables Claude AI to create, update, and manage WordPress blog posts via the WordPress REST API.
 
@@ -232,6 +233,8 @@ Contributions are welcome! Here are some ways you can help:
 - 📝 Improve documentation
 - 🔧 Submit pull requests
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
 ### Development Setup
 
 ```bash
@@ -277,7 +280,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📧 Issues: [GitHub Issues](https://github.com/SixFiveMil/wp-mcp-server/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/SixFiveMil/wp-mcp-server/discussions)
-- 📖 Documentation: [Wiki](https://github.com/SixFiveMil/wp-mcp-server/wiki)
+- 🌐 Website: [Code and Cypher](https://codeandcypher.com)
 
 ---
 
