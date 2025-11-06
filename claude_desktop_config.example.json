@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "wordpress": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e", "WORDPRESS_URL=https://your-site.com",
+        "-e", "WORDPRESS_USERNAME=your-username",
+        "-e", "WORDPRESS_APP_PASSWORD=xxxx-xxxx-xxxx-xxxx-xxxx-xxxx",
+        "wordpress-mcp-server"
+      ]
+    }
+  }
+}
